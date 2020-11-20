@@ -25,7 +25,7 @@ Restart Photoshop. Installed script should appear under File > Scripts menu.
 
 ## Video
 
-[![Watch the video](https://imgur.com/a/jMpH0GV.jpg)](https://imgur.com/AqNBPJT.mp4)
+[![Watch the video](https://i.imgur.com/3KWYUOj.jpg)](https://imgur.com/AqNBPJT.mp4)
 
 ## How it works:
 
